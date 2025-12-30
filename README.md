@@ -51,6 +51,7 @@ i build clean, scalable web & mobile products with a strong focus on UX, perform
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=react-query)
 
 ### backend & cloud
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
@@ -62,6 +63,7 @@ i build clean, scalable web & mobile products with a strong focus on UX, perform
 ### testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=flat)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress)
 
 ---

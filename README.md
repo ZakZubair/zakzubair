@@ -36,6 +36,7 @@ i build clean, scalable web & mobile products with a strong focus on UX, perform
 ### languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
 ### frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)

@@ -3,7 +3,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/1853932?v=4" width="110" style="border-radius:50%" />
 
-# hey, i’m Zak 👋  
+# hey, i’m Zak 👋
 ### senior full-stack engineer · react · next.js · react native
 
 i build clean, scalable web & mobile products with a strong focus on UX, performance, and maintainable front-end architecture.
@@ -21,13 +21,46 @@ i build clean, scalable web & mobile products with a strong focus on UX, perform
 
 ---
 
+## founder · Usul App
+
+<div align="center">
+  <a href="https://apps.apple.com/app/id6758164043">
+    <img src="https://www.theusul.app/images/icon/icon.png" alt="Usul App Icon" width="140" />
+  </a>
+  <br/>
+  <a href="https://apps.apple.com/app/id6758164043">
+    <img src="https://img.shields.io/badge/Download%20on-the%20App%20Store-black?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+  <a href="https://www.theusul.app">
+    <img src="https://img.shields.io/badge/Website-theusul.app-0f172a?style=for-the-badge" />
+  </a>
+</div>
+
+I’m the founder of **Usul App**, a privacy-focused Islamic companion built for daily consistency and calm UX.
+
+### what Usul helps with
+- accurate prayer times with flexible calculation settings
+- Qibla direction
+- prayer, fasting, and dhikr tracking
+- Quran reading with translation and transliteration
+- local-first backup/import workflow
+
+### links
+- Website: https://www.theusul.app
+- App Store: https://apps.apple.com/app/id6758164043
+- FAQs: https://www.theusul.app/faqs
+- Feedback: https://www.theusul.app/contact?feedback=open
+- Feature Requests: https://insigh.to/b/usul
+
+---
+
 ## about me
 
-- full-stack by role, front-end by passion  
-- enjoy building design systems & reusable components  
-- care deeply about DX, performance, and real-world UX  
-- comfortable owning features end-to-end, from idea → prod  
-- coffee powered ☕  
+- full-stack by role, front-end by passion
+- enjoy building design systems & reusable components
+- care deeply about DX, performance, and real-world UX
+- comfortable owning features end-to-end, from idea → prod
+- coffee powered ☕
 
 ---
 

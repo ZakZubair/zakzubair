@@ -50,7 +50,7 @@ I’m the founder of **Usul App**, a privacy-focused Islamic companion built for
 - App Store: https://apps.apple.com/app/id6758164043
 - FAQs: https://www.theusul.app/faqs
 - Feedback: https://www.theusul.app/contact?feedback=open
-- Feature Requests: https://insigh.to/b/usul
+- Feature Requests: https://www.theusul.app/feature-requests
 
 ---
 
